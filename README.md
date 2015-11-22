@@ -5,7 +5,7 @@ Test IP addresses online/offline status for example from /etc/hosts.
 ## Usage ##
 
 ```
-[OPTIONS] testHostsLocalIP
+[OPTIONS] ip-list-status-check
 ```
 ## Usage examples ##
 
