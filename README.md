@@ -33,7 +33,7 @@ ip-list-status-check --help|help
 ---------------------------------
 - PROGRAM: ip-list-status-check -
 ---------------------------------
--                             -
+-                              -
 - IP Address		Status      -
 - ............................. -
 - 10.10.10.1		Online      -
